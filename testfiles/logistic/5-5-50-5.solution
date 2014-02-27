@@ -1,0 +1,110 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C5-S50-P5-A5' defined
+ ... done.
+
+
+
+Cueing down from goal distance:   42 into depth [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: DRIVE-TRUCK T2 L219 L223 C2
+        1: DRIVE-TRUCK T3 L342 L327 C3
+        2: LOAD-TRUCK P1 T2 L223
+        3: DRIVE-TRUCK T2 L223 L227 C2
+        4: LOAD-TRUCK P2 T2 L227
+        5: LOAD-TRUCK P3 T3 L327
+        6: DRIVE-TRUCK T3 L327 L30 C3
+        7: UNLOAD-TRUCK P3 T3 L30
+        8: DRIVE-TRUCK T2 L227 L221 C2
+        9: LOAD-TRUCK P4 T2 L221
+       10: DRIVE-TRUCK T2 L221 L20 C2
+       11: UNLOAD-TRUCK P1 T2 L20
+       12: UNLOAD-TRUCK P2 T2 L20
+       13: DRIVE-TRUCK T0 L023 L033 C0
+       14: UNLOAD-TRUCK P4 T2 L20
+       15: LOAD-TRUCK P0 T0 L033
+       16: DRIVE-TRUCK T0 L033 L04 C0
+       17: DRIVE-TRUCK T4 L433 L40 C4
+       18: DRIVE-TRUCK T1 L17 L10 C1
+       19: UNLOAD-TRUCK P0 T0 L04
+       20: DRIVE-TRUCK T0 L04 L00 C0
+       21: FLY-AIRPLANE A3 L00 L20
+       22: LOAD-AIRPLANE P1 A3 L20
+       23: FLY-AIRPLANE A3 L20 L00
+       24: UNLOAD-AIRPLANE P1 A3 L00
+       25: LOAD-TRUCK P1 T0 L00
+       26: DRIVE-TRUCK T0 L00 L027 C0
+       27: UNLOAD-TRUCK P1 T0 L027
+       28: FLY-AIRPLANE A1 L10 L30
+       29: LOAD-AIRPLANE P3 A1 L30
+       30: FLY-AIRPLANE A1 L30 L10
+       31: UNLOAD-AIRPLANE P3 A1 L10
+       32: LOAD-TRUCK P3 T1 L10
+       33: DRIVE-TRUCK T1 L10 L124 C1
+       34: UNLOAD-TRUCK P3 T1 L124
+       35: FLY-AIRPLANE A0 L40 L20
+       36: LOAD-AIRPLANE P2 A0 L20
+       37: LOAD-AIRPLANE P4 A0 L20
+       38: FLY-AIRPLANE A0 L20 L40
+       39: UNLOAD-AIRPLANE P2 A0 L40
+       40: LOAD-TRUCK P2 T4 L40
+       41: DRIVE-TRUCK T4 L40 L444 C4
+       42: FLY-AIRPLANE A0 L40 L30
+       43: UNLOAD-TRUCK P2 T4 L444
+       44: UNLOAD-AIRPLANE P4 A0 L30
+     
+
+time spent:    0.01 seconds instantiating 87625 easy, 0 hard action templates
+               0.03 seconds reachability analysis, yielding 1575 facts and 15375 actions
+               0.02 seconds creating final representation with 1575 relevant facts
+               0.00 seconds building connectivity graph
+               0.26 seconds searching, evaluating 122 states, to a max depth of 2
+               0.32 seconds total time
+

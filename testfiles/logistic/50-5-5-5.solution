@@ -1,0 +1,75 @@
+
+ff: parsing domain file
+domain 'LOGISTICS-STRIPS' defined
+ ... done.
+ff: parsing problem file
+problem 'LOGISTICS-C5-S5-P5-A50' defined
+ ... done.
+
+
+
+Cueing down from goal distance:   25 into depth [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1][2]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: DRIVE-TRUCK T4 L41 L42 C4
+        1: LOAD-TRUCK P1 T4 L42
+        2: DRIVE-TRUCK T4 L42 L40 C4
+        3: UNLOAD-TRUCK P1 T4 L40
+        4: LOAD-AIRPLANE P1 A1 L40
+        5: FLY-AIRPLANE A1 L40 L00
+        6: UNLOAD-AIRPLANE P1 A1 L00
+        7: LOAD-AIRPLANE P2 A10 L40
+        8: FLY-AIRPLANE A10 L40 L30
+        9: LOAD-TRUCK P3 T4 L40
+       10: DRIVE-TRUCK T4 L40 L44 C4
+       11: DRIVE-TRUCK T0 L01 L00 C0
+       12: LOAD-TRUCK P1 T0 L00
+       13: UNLOAD-AIRPLANE P2 A10 L30
+       14: UNLOAD-TRUCK P3 T4 L44
+       15: DRIVE-TRUCK T3 L34 L32 C3
+       16: LOAD-TRUCK P4 T3 L32
+       17: DRIVE-TRUCK T3 L32 L34 C3
+       18: UNLOAD-TRUCK P4 T3 L34
+       19: DRIVE-TRUCK T0 L00 L04 C0
+       20: LOAD-TRUCK P0 T0 L04
+       21: UNLOAD-TRUCK P1 T0 L04
+       22: DRIVE-TRUCK T0 L04 L00 C0
+       23: UNLOAD-TRUCK P0 T0 L00
+       24: LOAD-AIRPLANE P0 A1 L00
+       25: FLY-AIRPLANE A1 L00 L30
+       26: UNLOAD-AIRPLANE P0 A1 L30
+     
+
+time spent:    0.00 seconds instantiating 15625 easy, 0 hard action templates
+               0.02 seconds reachability analysis, yielding 675 facts and 4125 actions
+               0.00 seconds creating final representation with 675 relevant facts
+               0.00 seconds building connectivity graph
+               0.01 seconds searching, evaluating 51 states, to a max depth of 2
+               0.03 seconds total time
+

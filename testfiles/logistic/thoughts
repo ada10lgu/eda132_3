@@ -1,0 +1,5 @@
+genom att öka paket tar det längre tid då problemet handlar om att flytta paket
+samtidigt ökar det även genom att minska antalet flygplan när man har multippla städer då det är en flaskhals
+genom att kolla koden ser vi att det är en lastbil per stad. problemet i sig säger inte något om antalet lastbilar per stad men denna generatorn gör det. Så genom att införa den parametern kan du ändra komplexiteten.
+
+panter-9 2014-02-27
