@@ -1,0 +1,11 @@
+
+ff: parsing domain file
+domain 'TYREWORLD' defined
+ ... done.
+ff: parsing problem file
+problem 'TIREWORLD-200' defined
+ ... done.
+
+
+too many relevant facts! increase MAX_RELEVANT_FACTS (currently 100000)
+

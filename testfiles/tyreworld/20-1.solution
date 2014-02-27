@@ -1,0 +1,529 @@
+
+ff: parsing domain file
+domain 'TYREWORLD' defined
+ ... done.
+ff: parsing problem file
+problem 'TIREWORLD-20' defined
+ ... done.
+
+
+
+Cueing down from goal distance:   22 into depth [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:  122 into depth [1]
+                                 121            [1]
+                                 120            [1]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1][2]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1][2]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1][2]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1][2]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1][2]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1][2]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1][2]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1][2]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:   60 into depth [1]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1][2]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1][2]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1][2]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:   21 into depth [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:    1 into depth [1]
+                                   0            
+
+Cueing down from goal distance:    1 into depth [1]
+                                   0            
+
+Cueing down from goal distance:    1 into depth [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: OPEN BOOT
+        1: FETCH PUMP BOOT
+        2: INFLATE R1
+        3: INFLATE R2
+        4: INFLATE R3
+        5: INFLATE R4
+        6: INFLATE R5
+        7: INFLATE R6
+        8: INFLATE R7
+        9: INFLATE R8
+       10: INFLATE R9
+       11: INFLATE R10
+       12: INFLATE R11
+       13: INFLATE R12
+       14: INFLATE R13
+       15: INFLATE R14
+       16: INFLATE R15
+       17: INFLATE R16
+       18: INFLATE R17
+       19: INFLATE R18
+       20: INFLATE R19
+       21: INFLATE R20
+       22: FETCH JACK BOOT
+       23: FETCH WRENCH BOOT
+       24: LOOSEN NUTS1 THE-HUB1
+       25: LOOSEN NUTS2 THE-HUB2
+       26: LOOSEN NUTS3 THE-HUB3
+       27: LOOSEN NUTS4 THE-HUB4
+       28: LOOSEN NUTS5 THE-HUB5
+       29: LOOSEN NUTS6 THE-HUB6
+       30: LOOSEN NUTS7 THE-HUB7
+       31: LOOSEN NUTS8 THE-HUB8
+       32: LOOSEN NUTS9 THE-HUB9
+       33: LOOSEN NUTS10 THE-HUB10
+       34: LOOSEN NUTS11 THE-HUB11
+       35: LOOSEN NUTS12 THE-HUB12
+       36: LOOSEN NUTS13 THE-HUB13
+       37: LOOSEN NUTS14 THE-HUB14
+       38: LOOSEN NUTS15 THE-HUB15
+       39: LOOSEN NUTS16 THE-HUB16
+       40: LOOSEN NUTS17 THE-HUB17
+       41: LOOSEN NUTS18 THE-HUB18
+       42: LOOSEN NUTS19 THE-HUB19
+       43: LOOSEN NUTS20 THE-HUB20
+       44: FETCH R1 BOOT
+       45: FETCH R2 BOOT
+       46: FETCH R3 BOOT
+       47: FETCH R4 BOOT
+       48: FETCH R5 BOOT
+       49: FETCH R6 BOOT
+       50: FETCH R7 BOOT
+       51: FETCH R8 BOOT
+       52: FETCH R9 BOOT
+       53: FETCH R10 BOOT
+       54: FETCH R11 BOOT
+       55: FETCH R12 BOOT
+       56: FETCH R13 BOOT
+       57: FETCH R14 BOOT
+       58: FETCH R15 BOOT
+       59: FETCH R16 BOOT
+       60: FETCH R17 BOOT
+       61: FETCH R18 BOOT
+       62: FETCH R19 BOOT
+       63: FETCH R20 BOOT
+       64: JACK-UP THE-HUB1
+       65: UNDO NUTS1 THE-HUB1
+       66: REMOVE-WHEEL W1 THE-HUB1
+       67: PUT-ON-WHEEL R1 THE-HUB1
+       68: JACK-DOWN THE-HUB1
+       69: JACK-UP THE-HUB2
+       70: UNDO NUTS2 THE-HUB2
+       71: REMOVE-WHEEL W2 THE-HUB2
+       72: PUT-ON-WHEEL R2 THE-HUB2
+       73: JACK-DOWN THE-HUB2
+       74: JACK-UP THE-HUB3
+       75: UNDO NUTS3 THE-HUB3
+       76: REMOVE-WHEEL W3 THE-HUB3
+       77: PUT-ON-WHEEL R3 THE-HUB3
+       78: JACK-DOWN THE-HUB3
+       79: JACK-UP THE-HUB4
+       80: UNDO NUTS4 THE-HUB4
+       81: REMOVE-WHEEL W4 THE-HUB4
+       82: PUT-ON-WHEEL R4 THE-HUB4
+       83: JACK-DOWN THE-HUB4
+       84: JACK-UP THE-HUB5
+       85: UNDO NUTS5 THE-HUB5
+       86: REMOVE-WHEEL W5 THE-HUB5
+       87: PUT-ON-WHEEL R5 THE-HUB5
+       88: JACK-DOWN THE-HUB5
+       89: JACK-UP THE-HUB6
+       90: UNDO NUTS6 THE-HUB6
+       91: REMOVE-WHEEL W6 THE-HUB6
+       92: PUT-ON-WHEEL R6 THE-HUB6
+       93: JACK-DOWN THE-HUB6
+       94: JACK-UP THE-HUB7
+       95: UNDO NUTS7 THE-HUB7
+       96: REMOVE-WHEEL W7 THE-HUB7
+       97: PUT-ON-WHEEL R7 THE-HUB7
+       98: JACK-DOWN THE-HUB7
+       99: JACK-UP THE-HUB8
+      100: UNDO NUTS8 THE-HUB8
+      101: REMOVE-WHEEL W8 THE-HUB8
+      102: PUT-ON-WHEEL R8 THE-HUB8
+      103: JACK-DOWN THE-HUB8
+      104: JACK-UP THE-HUB9
+      105: UNDO NUTS9 THE-HUB9
+      106: REMOVE-WHEEL W9 THE-HUB9
+      107: PUT-ON-WHEEL R9 THE-HUB9
+      108: JACK-DOWN THE-HUB9
+      109: JACK-UP THE-HUB10
+      110: UNDO NUTS10 THE-HUB10
+      111: REMOVE-WHEEL W10 THE-HUB10
+      112: PUT-ON-WHEEL R10 THE-HUB10
+      113: JACK-DOWN THE-HUB10
+      114: JACK-UP THE-HUB11
+      115: UNDO NUTS11 THE-HUB11
+      116: REMOVE-WHEEL W11 THE-HUB11
+      117: PUT-ON-WHEEL R11 THE-HUB11
+      118: JACK-DOWN THE-HUB11
+      119: JACK-UP THE-HUB12
+      120: UNDO NUTS12 THE-HUB12
+      121: REMOVE-WHEEL W12 THE-HUB12
+      122: PUT-ON-WHEEL R12 THE-HUB12
+      123: JACK-DOWN THE-HUB12
+      124: JACK-UP THE-HUB13
+      125: UNDO NUTS13 THE-HUB13
+      126: REMOVE-WHEEL W13 THE-HUB13
+      127: PUT-ON-WHEEL R13 THE-HUB13
+      128: JACK-DOWN THE-HUB13
+      129: JACK-UP THE-HUB14
+      130: UNDO NUTS14 THE-HUB14
+      131: REMOVE-WHEEL W14 THE-HUB14
+      132: PUT-ON-WHEEL R14 THE-HUB14
+      133: JACK-DOWN THE-HUB14
+      134: JACK-UP THE-HUB15
+      135: UNDO NUTS15 THE-HUB15
+      136: REMOVE-WHEEL W15 THE-HUB15
+      137: PUT-ON-WHEEL R15 THE-HUB15
+      138: JACK-DOWN THE-HUB15
+      139: JACK-UP THE-HUB16
+      140: UNDO NUTS16 THE-HUB16
+      141: REMOVE-WHEEL W16 THE-HUB16
+      142: PUT-ON-WHEEL R16 THE-HUB16
+      143: JACK-DOWN THE-HUB16
+      144: JACK-UP THE-HUB17
+      145: UNDO NUTS17 THE-HUB17
+      146: REMOVE-WHEEL W17 THE-HUB17
+      147: PUT-ON-WHEEL R17 THE-HUB17
+      148: JACK-DOWN THE-HUB17
+      149: JACK-UP THE-HUB18
+      150: UNDO NUTS18 THE-HUB18
+      151: REMOVE-WHEEL W18 THE-HUB18
+      152: PUT-ON-WHEEL R18 THE-HUB18
+      153: JACK-DOWN THE-HUB18
+      154: JACK-UP THE-HUB19
+      155: UNDO NUTS19 THE-HUB19
+      156: REMOVE-WHEEL W19 THE-HUB19
+      157: PUT-ON-WHEEL R19 THE-HUB19
+      158: JACK-DOWN THE-HUB19
+      159: JACK-UP THE-HUB20
+      160: UNDO NUTS20 THE-HUB20
+      161: REMOVE-WHEEL W20 THE-HUB20
+      162: PUT-ON-WHEEL R20 THE-HUB20
+      163: DO-UP NUTS20 THE-HUB20
+      164: JACK-DOWN THE-HUB20
+      165: TIGHTEN NUTS20 THE-HUB20
+      166: JACK-UP THE-HUB1
+      167: DO-UP NUTS1 THE-HUB1
+      168: JACK-DOWN THE-HUB1
+      169: TIGHTEN NUTS1 THE-HUB1
+      170: JACK-UP THE-HUB2
+      171: DO-UP NUTS2 THE-HUB2
+      172: JACK-DOWN THE-HUB2
+      173: TIGHTEN NUTS2 THE-HUB2
+      174: JACK-UP THE-HUB3
+      175: DO-UP NUTS3 THE-HUB3
+      176: JACK-DOWN THE-HUB3
+      177: TIGHTEN NUTS3 THE-HUB3
+      178: JACK-UP THE-HUB4
+      179: DO-UP NUTS4 THE-HUB4
+      180: JACK-DOWN THE-HUB4
+      181: TIGHTEN NUTS4 THE-HUB4
+      182: JACK-UP THE-HUB5
+      183: DO-UP NUTS5 THE-HUB5
+      184: JACK-DOWN THE-HUB5
+      185: TIGHTEN NUTS5 THE-HUB5
+      186: JACK-UP THE-HUB6
+      187: DO-UP NUTS6 THE-HUB6
+      188: JACK-DOWN THE-HUB6
+      189: TIGHTEN NUTS6 THE-HUB6
+      190: JACK-UP THE-HUB7
+      191: DO-UP NUTS7 THE-HUB7
+      192: JACK-DOWN THE-HUB7
+      193: TIGHTEN NUTS7 THE-HUB7
+      194: JACK-UP THE-HUB8
+      195: DO-UP NUTS8 THE-HUB8
+      196: JACK-DOWN THE-HUB8
+      197: TIGHTEN NUTS8 THE-HUB8
+      198: JACK-UP THE-HUB9
+      199: DO-UP NUTS9 THE-HUB9
+      200: JACK-DOWN THE-HUB9
+      201: TIGHTEN NUTS9 THE-HUB9
+      202: JACK-UP THE-HUB10
+      203: DO-UP NUTS10 THE-HUB10
+      204: JACK-DOWN THE-HUB10
+      205: TIGHTEN NUTS10 THE-HUB10
+      206: JACK-UP THE-HUB11
+      207: DO-UP NUTS11 THE-HUB11
+      208: JACK-DOWN THE-HUB11
+      209: TIGHTEN NUTS11 THE-HUB11
+      210: JACK-UP THE-HUB12
+      211: DO-UP NUTS12 THE-HUB12
+      212: JACK-DOWN THE-HUB12
+      213: TIGHTEN NUTS12 THE-HUB12
+      214: JACK-UP THE-HUB13
+      215: DO-UP NUTS13 THE-HUB13
+      216: JACK-DOWN THE-HUB13
+      217: TIGHTEN NUTS13 THE-HUB13
+      218: JACK-UP THE-HUB14
+      219: DO-UP NUTS14 THE-HUB14
+      220: JACK-DOWN THE-HUB14
+      221: TIGHTEN NUTS14 THE-HUB14
+      222: JACK-UP THE-HUB15
+      223: DO-UP NUTS15 THE-HUB15
+      224: JACK-DOWN THE-HUB15
+      225: TIGHTEN NUTS15 THE-HUB15
+      226: JACK-UP THE-HUB16
+      227: DO-UP NUTS16 THE-HUB16
+      228: JACK-DOWN THE-HUB16
+      229: TIGHTEN NUTS16 THE-HUB16
+      230: JACK-UP THE-HUB17
+      231: DO-UP NUTS17 THE-HUB17
+      232: JACK-DOWN THE-HUB17
+      233: TIGHTEN NUTS17 THE-HUB17
+      234: JACK-UP THE-HUB18
+      235: DO-UP NUTS18 THE-HUB18
+      236: JACK-DOWN THE-HUB18
+      237: TIGHTEN NUTS18 THE-HUB18
+      238: JACK-UP THE-HUB19
+      239: DO-UP NUTS19 THE-HUB19
+      240: JACK-DOWN THE-HUB19
+      241: TIGHTEN NUTS19 THE-HUB19
+      242: PUT-AWAY W1 BOOT
+      243: PUT-AWAY W2 BOOT
+      244: PUT-AWAY W3 BOOT
+      245: PUT-AWAY W4 BOOT
+      246: PUT-AWAY W5 BOOT
+      247: PUT-AWAY W6 BOOT
+      248: PUT-AWAY W7 BOOT
+      249: PUT-AWAY W8 BOOT
+      250: PUT-AWAY W9 BOOT
+      251: PUT-AWAY W10 BOOT
+      252: PUT-AWAY W11 BOOT
+      253: PUT-AWAY W12 BOOT
+      254: PUT-AWAY W13 BOOT
+      255: PUT-AWAY W14 BOOT
+      256: PUT-AWAY W15 BOOT
+      257: PUT-AWAY W16 BOOT
+      258: PUT-AWAY W17 BOOT
+      259: PUT-AWAY W18 BOOT
+      260: PUT-AWAY W19 BOOT
+      261: PUT-AWAY W20 BOOT
+      262: PUT-AWAY PUMP BOOT
+      263: PUT-AWAY JACK BOOT
+      264: PUT-AWAY WRENCH BOOT
+      265: CLOSE BOOT
+     
+
+time spent:    0.00 seconds instantiating 3388 easy, 0 hard action templates
+               0.01 seconds reachability analysis, yielding 1868 facts and 3388 actions
+               0.00 seconds creating final representation with 1868 relevant facts
+               0.01 seconds building connectivity graph
+               0.18 seconds searching, evaluating 673 states, to a max depth of 2
+               0.20 seconds total time
+

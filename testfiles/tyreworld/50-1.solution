@@ -1,0 +1,1249 @@
+
+ff: parsing domain file
+domain 'TYREWORLD' defined
+ ... done.
+ff: parsing problem file
+problem 'TIREWORLD-50' defined
+ ... done.
+
+
+
+Cueing down from goal distance:   52 into depth [1]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:  302 into depth [1]
+                                 301            [1]
+                                 300            [1]
+                                 299            [1]
+                                 298            [1]
+                                 297            [1]
+                                 296            [1]
+                                 295            [1]
+                                 294            [1]
+                                 293            [1]
+                                 292            [1]
+                                 291            [1]
+                                 290            [1]
+                                 289            [1]
+                                 288            [1]
+                                 287            [1]
+                                 286            [1]
+                                 285            [1]
+                                 284            [1]
+                                 283            [1]
+                                 282            [1]
+                                 281            [1]
+                                 280            [1]
+                                 279            [1]
+                                 278            [1]
+                                 277            [1]
+                                 276            [1]
+                                 275            [1]
+                                 274            [1]
+                                 273            [1]
+                                 272            [1]
+                                 271            [1]
+                                 270            [1]
+                                 269            [1]
+                                 268            [1]
+                                 267            [1]
+                                 266            [1]
+                                 265            [1]
+                                 264            [1]
+                                 263            [1]
+                                 262            [1]
+                                 261            [1]
+                                 260            [1]
+                                 259            [1]
+                                 258            [1]
+                                 257            [1]
+                                 256            [1]
+                                 255            [1]
+                                 254            [1]
+                                 253            [1]
+                                 252            [1]
+                                 251            [1]
+                                 250            [1]
+                                 249            [1]
+                                 248            [1]
+                                 247            [1]
+                                 246            [1]
+                                 245            [1]
+                                 244            [1]
+                                 243            [1]
+                                 242            [1]
+                                 241            [1]
+                                 240            [1]
+                                 239            [1]
+                                 238            [1]
+                                 237            [1]
+                                 236            [1]
+                                 235            [1]
+                                 234            [1]
+                                 233            [1]
+                                 232            [1]
+                                 231            [1]
+                                 230            [1]
+                                 229            [1]
+                                 228            [1]
+                                 227            [1]
+                                 226            [1]
+                                 225            [1]
+                                 224            [1]
+                                 223            [1]
+                                 222            [1]
+                                 221            [1]
+                                 220            [1]
+                                 219            [1]
+                                 218            [1]
+                                 217            [1]
+                                 216            [1]
+                                 215            [1]
+                                 214            [1]
+                                 213            [1]
+                                 212            [1]
+                                 211            [1]
+                                 210            [1]
+                                 209            [1]
+                                 208            [1]
+                                 207            [1]
+                                 206            [1]
+                                 205            [1]
+                                 204            [1]
+                                 203            [1]
+                                 202            [1]
+                                 201            [1]
+                                 200            [1][2]
+                                 199            [1]
+                                 198            [1]
+                                 197            [1]
+                                 196            [1][2]
+                                 195            [1]
+                                 194            [1]
+                                 193            [1]
+                                 192            [1][2]
+                                 191            [1]
+                                 190            [1]
+                                 189            [1]
+                                 188            [1][2]
+                                 187            [1]
+                                 186            [1]
+                                 185            [1]
+                                 184            [1][2]
+                                 183            [1]
+                                 182            [1]
+                                 181            [1]
+                                 180            [1][2]
+                                 179            [1]
+                                 178            [1]
+                                 177            [1]
+                                 176            [1][2]
+                                 175            [1]
+                                 174            [1]
+                                 173            [1]
+                                 172            [1][2]
+                                 171            [1]
+                                 170            [1]
+                                 169            [1]
+                                 168            [1][2]
+                                 167            [1]
+                                 166            [1]
+                                 165            [1]
+                                 164            [1][2]
+                                 163            [1]
+                                 162            [1]
+                                 161            [1]
+                                 160            [1][2]
+                                 159            [1]
+                                 158            [1]
+                                 157            [1]
+                                 156            [1][2]
+                                 155            [1]
+                                 154            [1]
+                                 153            [1]
+                                 152            [1][2]
+                                 151            [1]
+                                 150            [1]
+                                 149            [1]
+                                 148            [1][2]
+                                 147            [1]
+                                 146            [1]
+                                 145            [1]
+                                 144            [1][2]
+                                 143            [1]
+                                 142            [1]
+                                 141            [1]
+                                 140            [1][2]
+                                 139            [1]
+                                 138            [1]
+                                 137            [1]
+                                 136            [1][2]
+                                 135            [1]
+                                 134            [1]
+                                 133            [1]
+                                 132            [1][2]
+                                 131            [1]
+                                 130            [1]
+                                 129            [1]
+                                 128            [1][2]
+                                 127            [1]
+                                 126            [1]
+                                 125            [1]
+                                 124            [1][2]
+                                 123            [1]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1][2]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1]
+                                 116            [1][2]
+                                 115            [1]
+                                 114            [1]
+                                 113            [1]
+                                 112            [1][2]
+                                 111            [1]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1][2]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1]
+                                 104            [1][2]
+                                 103            [1]
+                                 102            [1]
+                                 101            [1]
+                                 100            [1][2]
+                                  99            [1]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1][2]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1]
+                                  92            [1][2]
+                                  91            [1]
+                                  90            [1]
+                                  89            [1]
+                                  88            [1][2]
+                                  87            [1]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1][2]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1]
+                                  80            [1][2]
+                                  79            [1]
+                                  78            [1]
+                                  77            [1]
+                                  76            [1][2]
+                                  75            [1]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1]
+                                  68            [1][2]
+                                  67            [1]
+                                  66            [1]
+                                  65            [1]
+                                  64            [1][2]
+                                  63            [1]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1]
+                                  56            [1][2]
+                                  55            [1]
+                                  54            [1]
+                                  53            [1]
+                                  52            [1][2]
+                                  51            [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1][2]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1][2]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1][2]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1][2]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1][2]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1][2]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1][2]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1][2]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:  150 into depth [1]
+                                 149            [1]
+                                 148            [1]
+                                 147            [1][2]
+                                 146            [1]
+                                 145            [1]
+                                 144            [1][2]
+                                 143            [1]
+                                 142            [1]
+                                 141            [1][2]
+                                 140            [1]
+                                 139            [1]
+                                 138            [1][2]
+                                 137            [1]
+                                 136            [1]
+                                 135            [1][2]
+                                 134            [1]
+                                 133            [1]
+                                 132            [1][2]
+                                 131            [1]
+                                 130            [1]
+                                 129            [1][2]
+                                 128            [1]
+                                 127            [1]
+                                 126            [1][2]
+                                 125            [1]
+                                 124            [1]
+                                 123            [1][2]
+                                 122            [1]
+                                 121            [1]
+                                 120            [1][2]
+                                 119            [1]
+                                 118            [1]
+                                 117            [1][2]
+                                 116            [1]
+                                 115            [1]
+                                 114            [1][2]
+                                 113            [1]
+                                 112            [1]
+                                 111            [1][2]
+                                 110            [1]
+                                 109            [1]
+                                 108            [1][2]
+                                 107            [1]
+                                 106            [1]
+                                 105            [1][2]
+                                 104            [1]
+                                 103            [1]
+                                 102            [1][2]
+                                 101            [1]
+                                 100            [1]
+                                  99            [1][2]
+                                  98            [1]
+                                  97            [1]
+                                  96            [1][2]
+                                  95            [1]
+                                  94            [1]
+                                  93            [1][2]
+                                  92            [1]
+                                  91            [1]
+                                  90            [1][2]
+                                  89            [1]
+                                  88            [1]
+                                  87            [1][2]
+                                  86            [1]
+                                  85            [1]
+                                  84            [1][2]
+                                  83            [1]
+                                  82            [1]
+                                  81            [1][2]
+                                  80            [1]
+                                  79            [1]
+                                  78            [1][2]
+                                  77            [1]
+                                  76            [1]
+                                  75            [1][2]
+                                  74            [1]
+                                  73            [1]
+                                  72            [1][2]
+                                  71            [1]
+                                  70            [1]
+                                  69            [1][2]
+                                  68            [1]
+                                  67            [1]
+                                  66            [1][2]
+                                  65            [1]
+                                  64            [1]
+                                  63            [1][2]
+                                  62            [1]
+                                  61            [1]
+                                  60            [1][2]
+                                  59            [1]
+                                  58            [1]
+                                  57            [1][2]
+                                  56            [1]
+                                  55            [1]
+                                  54            [1][2]
+                                  53            [1]
+                                  52            [1]
+                                  51            [1][2]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1][2]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1][2]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1][2]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1][2]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1][2]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1][2]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1][2]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1][2]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1][2]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1][2]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1][2]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1][2]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1][2]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1][2]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1][2]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1][2]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:   51 into depth [1]
+                                  50            [1]
+                                  49            [1]
+                                  48            [1]
+                                  47            [1]
+                                  46            [1]
+                                  45            [1]
+                                  44            [1]
+                                  43            [1]
+                                  42            [1]
+                                  41            [1]
+                                  40            [1]
+                                  39            [1]
+                                  38            [1]
+                                  37            [1]
+                                  36            [1]
+                                  35            [1]
+                                  34            [1]
+                                  33            [1]
+                                  32            [1]
+                                  31            [1]
+                                  30            [1]
+                                  29            [1]
+                                  28            [1]
+                                  27            [1]
+                                  26            [1]
+                                  25            [1]
+                                  24            [1]
+                                  23            [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+Cueing down from goal distance:    1 into depth [1]
+                                   0            
+
+Cueing down from goal distance:    1 into depth [1]
+                                   0            
+
+Cueing down from goal distance:    1 into depth [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: OPEN BOOT
+        1: FETCH PUMP BOOT
+        2: INFLATE R1
+        3: INFLATE R2
+        4: INFLATE R3
+        5: INFLATE R4
+        6: INFLATE R5
+        7: INFLATE R6
+        8: INFLATE R7
+        9: INFLATE R8
+       10: INFLATE R9
+       11: INFLATE R10
+       12: INFLATE R11
+       13: INFLATE R12
+       14: INFLATE R13
+       15: INFLATE R14
+       16: INFLATE R15
+       17: INFLATE R16
+       18: INFLATE R17
+       19: INFLATE R18
+       20: INFLATE R19
+       21: INFLATE R20
+       22: INFLATE R21
+       23: INFLATE R22
+       24: INFLATE R23
+       25: INFLATE R24
+       26: INFLATE R25
+       27: INFLATE R26
+       28: INFLATE R27
+       29: INFLATE R28
+       30: INFLATE R29
+       31: INFLATE R30
+       32: INFLATE R31
+       33: INFLATE R32
+       34: INFLATE R33
+       35: INFLATE R34
+       36: INFLATE R35
+       37: INFLATE R36
+       38: INFLATE R37
+       39: INFLATE R38
+       40: INFLATE R39
+       41: INFLATE R40
+       42: INFLATE R41
+       43: INFLATE R42
+       44: INFLATE R43
+       45: INFLATE R44
+       46: INFLATE R45
+       47: INFLATE R46
+       48: INFLATE R47
+       49: INFLATE R48
+       50: INFLATE R49
+       51: INFLATE R50
+       52: FETCH JACK BOOT
+       53: FETCH WRENCH BOOT
+       54: LOOSEN NUTS1 THE-HUB1
+       55: LOOSEN NUTS2 THE-HUB2
+       56: LOOSEN NUTS3 THE-HUB3
+       57: LOOSEN NUTS4 THE-HUB4
+       58: LOOSEN NUTS5 THE-HUB5
+       59: LOOSEN NUTS6 THE-HUB6
+       60: LOOSEN NUTS7 THE-HUB7
+       61: LOOSEN NUTS8 THE-HUB8
+       62: LOOSEN NUTS9 THE-HUB9
+       63: LOOSEN NUTS10 THE-HUB10
+       64: LOOSEN NUTS11 THE-HUB11
+       65: LOOSEN NUTS12 THE-HUB12
+       66: LOOSEN NUTS13 THE-HUB13
+       67: LOOSEN NUTS14 THE-HUB14
+       68: LOOSEN NUTS15 THE-HUB15
+       69: LOOSEN NUTS16 THE-HUB16
+       70: LOOSEN NUTS17 THE-HUB17
+       71: LOOSEN NUTS18 THE-HUB18
+       72: LOOSEN NUTS19 THE-HUB19
+       73: LOOSEN NUTS20 THE-HUB20
+       74: LOOSEN NUTS21 THE-HUB21
+       75: LOOSEN NUTS22 THE-HUB22
+       76: LOOSEN NUTS23 THE-HUB23
+       77: LOOSEN NUTS24 THE-HUB24
+       78: LOOSEN NUTS25 THE-HUB25
+       79: LOOSEN NUTS26 THE-HUB26
+       80: LOOSEN NUTS27 THE-HUB27
+       81: LOOSEN NUTS28 THE-HUB28
+       82: LOOSEN NUTS29 THE-HUB29
+       83: LOOSEN NUTS30 THE-HUB30
+       84: LOOSEN NUTS31 THE-HUB31
+       85: LOOSEN NUTS32 THE-HUB32
+       86: LOOSEN NUTS33 THE-HUB33
+       87: LOOSEN NUTS34 THE-HUB34
+       88: LOOSEN NUTS35 THE-HUB35
+       89: LOOSEN NUTS36 THE-HUB36
+       90: LOOSEN NUTS37 THE-HUB37
+       91: LOOSEN NUTS38 THE-HUB38
+       92: LOOSEN NUTS39 THE-HUB39
+       93: LOOSEN NUTS40 THE-HUB40
+       94: LOOSEN NUTS41 THE-HUB41
+       95: LOOSEN NUTS42 THE-HUB42
+       96: LOOSEN NUTS43 THE-HUB43
+       97: LOOSEN NUTS44 THE-HUB44
+       98: LOOSEN NUTS45 THE-HUB45
+       99: LOOSEN NUTS46 THE-HUB46
+      100: LOOSEN NUTS47 THE-HUB47
+      101: LOOSEN NUTS48 THE-HUB48
+      102: LOOSEN NUTS49 THE-HUB49
+      103: LOOSEN NUTS50 THE-HUB50
+      104: FETCH R1 BOOT
+      105: FETCH R2 BOOT
+      106: FETCH R3 BOOT
+      107: FETCH R4 BOOT
+      108: FETCH R5 BOOT
+      109: FETCH R6 BOOT
+      110: FETCH R7 BOOT
+      111: FETCH R8 BOOT
+      112: FETCH R9 BOOT
+      113: FETCH R10 BOOT
+      114: FETCH R11 BOOT
+      115: FETCH R12 BOOT
+      116: FETCH R13 BOOT
+      117: FETCH R14 BOOT
+      118: FETCH R15 BOOT
+      119: FETCH R16 BOOT
+      120: FETCH R17 BOOT
+      121: FETCH R18 BOOT
+      122: FETCH R19 BOOT
+      123: FETCH R20 BOOT
+      124: FETCH R21 BOOT
+      125: FETCH R22 BOOT
+      126: FETCH R23 BOOT
+      127: FETCH R24 BOOT
+      128: FETCH R25 BOOT
+      129: FETCH R26 BOOT
+      130: FETCH R27 BOOT
+      131: FETCH R28 BOOT
+      132: FETCH R29 BOOT
+      133: FETCH R30 BOOT
+      134: FETCH R31 BOOT
+      135: FETCH R32 BOOT
+      136: FETCH R33 BOOT
+      137: FETCH R34 BOOT
+      138: FETCH R35 BOOT
+      139: FETCH R36 BOOT
+      140: FETCH R37 BOOT
+      141: FETCH R38 BOOT
+      142: FETCH R39 BOOT
+      143: FETCH R40 BOOT
+      144: FETCH R41 BOOT
+      145: FETCH R42 BOOT
+      146: FETCH R43 BOOT
+      147: FETCH R44 BOOT
+      148: FETCH R45 BOOT
+      149: FETCH R46 BOOT
+      150: FETCH R47 BOOT
+      151: FETCH R48 BOOT
+      152: FETCH R49 BOOT
+      153: FETCH R50 BOOT
+      154: JACK-UP THE-HUB1
+      155: UNDO NUTS1 THE-HUB1
+      156: REMOVE-WHEEL W1 THE-HUB1
+      157: PUT-ON-WHEEL R1 THE-HUB1
+      158: JACK-DOWN THE-HUB1
+      159: JACK-UP THE-HUB2
+      160: UNDO NUTS2 THE-HUB2
+      161: REMOVE-WHEEL W2 THE-HUB2
+      162: PUT-ON-WHEEL R2 THE-HUB2
+      163: JACK-DOWN THE-HUB2
+      164: JACK-UP THE-HUB3
+      165: UNDO NUTS3 THE-HUB3
+      166: REMOVE-WHEEL W3 THE-HUB3
+      167: PUT-ON-WHEEL R3 THE-HUB3
+      168: JACK-DOWN THE-HUB3
+      169: JACK-UP THE-HUB4
+      170: UNDO NUTS4 THE-HUB4
+      171: REMOVE-WHEEL W4 THE-HUB4
+      172: PUT-ON-WHEEL R4 THE-HUB4
+      173: JACK-DOWN THE-HUB4
+      174: JACK-UP THE-HUB5
+      175: UNDO NUTS5 THE-HUB5
+      176: REMOVE-WHEEL W5 THE-HUB5
+      177: PUT-ON-WHEEL R5 THE-HUB5
+      178: JACK-DOWN THE-HUB5
+      179: JACK-UP THE-HUB6
+      180: UNDO NUTS6 THE-HUB6
+      181: REMOVE-WHEEL W6 THE-HUB6
+      182: PUT-ON-WHEEL R6 THE-HUB6
+      183: JACK-DOWN THE-HUB6
+      184: JACK-UP THE-HUB7
+      185: UNDO NUTS7 THE-HUB7
+      186: REMOVE-WHEEL W7 THE-HUB7
+      187: PUT-ON-WHEEL R7 THE-HUB7
+      188: JACK-DOWN THE-HUB7
+      189: JACK-UP THE-HUB8
+      190: UNDO NUTS8 THE-HUB8
+      191: REMOVE-WHEEL W8 THE-HUB8
+      192: PUT-ON-WHEEL R8 THE-HUB8
+      193: JACK-DOWN THE-HUB8
+      194: JACK-UP THE-HUB9
+      195: UNDO NUTS9 THE-HUB9
+      196: REMOVE-WHEEL W9 THE-HUB9
+      197: PUT-ON-WHEEL R9 THE-HUB9
+      198: JACK-DOWN THE-HUB9
+      199: JACK-UP THE-HUB10
+      200: UNDO NUTS10 THE-HUB10
+      201: REMOVE-WHEEL W10 THE-HUB10
+      202: PUT-ON-WHEEL R10 THE-HUB10
+      203: JACK-DOWN THE-HUB10
+      204: JACK-UP THE-HUB11
+      205: UNDO NUTS11 THE-HUB11
+      206: REMOVE-WHEEL W11 THE-HUB11
+      207: PUT-ON-WHEEL R11 THE-HUB11
+      208: JACK-DOWN THE-HUB11
+      209: JACK-UP THE-HUB12
+      210: UNDO NUTS12 THE-HUB12
+      211: REMOVE-WHEEL W12 THE-HUB12
+      212: PUT-ON-WHEEL R12 THE-HUB12
+      213: JACK-DOWN THE-HUB12
+      214: JACK-UP THE-HUB13
+      215: UNDO NUTS13 THE-HUB13
+      216: REMOVE-WHEEL W13 THE-HUB13
+      217: PUT-ON-WHEEL R13 THE-HUB13
+      218: JACK-DOWN THE-HUB13
+      219: JACK-UP THE-HUB14
+      220: UNDO NUTS14 THE-HUB14
+      221: REMOVE-WHEEL W14 THE-HUB14
+      222: PUT-ON-WHEEL R14 THE-HUB14
+      223: JACK-DOWN THE-HUB14
+      224: JACK-UP THE-HUB15
+      225: UNDO NUTS15 THE-HUB15
+      226: REMOVE-WHEEL W15 THE-HUB15
+      227: PUT-ON-WHEEL R15 THE-HUB15
+      228: JACK-DOWN THE-HUB15
+      229: JACK-UP THE-HUB16
+      230: UNDO NUTS16 THE-HUB16
+      231: REMOVE-WHEEL W16 THE-HUB16
+      232: PUT-ON-WHEEL R16 THE-HUB16
+      233: JACK-DOWN THE-HUB16
+      234: JACK-UP THE-HUB17
+      235: UNDO NUTS17 THE-HUB17
+      236: REMOVE-WHEEL W17 THE-HUB17
+      237: PUT-ON-WHEEL R17 THE-HUB17
+      238: JACK-DOWN THE-HUB17
+      239: JACK-UP THE-HUB18
+      240: UNDO NUTS18 THE-HUB18
+      241: REMOVE-WHEEL W18 THE-HUB18
+      242: PUT-ON-WHEEL R18 THE-HUB18
+      243: JACK-DOWN THE-HUB18
+      244: JACK-UP THE-HUB19
+      245: UNDO NUTS19 THE-HUB19
+      246: REMOVE-WHEEL W19 THE-HUB19
+      247: PUT-ON-WHEEL R19 THE-HUB19
+      248: JACK-DOWN THE-HUB19
+      249: JACK-UP THE-HUB20
+      250: UNDO NUTS20 THE-HUB20
+      251: REMOVE-WHEEL W20 THE-HUB20
+      252: PUT-ON-WHEEL R20 THE-HUB20
+      253: JACK-DOWN THE-HUB20
+      254: JACK-UP THE-HUB21
+      255: UNDO NUTS21 THE-HUB21
+      256: REMOVE-WHEEL W21 THE-HUB21
+      257: PUT-ON-WHEEL R21 THE-HUB21
+      258: JACK-DOWN THE-HUB21
+      259: JACK-UP THE-HUB22
+      260: UNDO NUTS22 THE-HUB22
+      261: REMOVE-WHEEL W22 THE-HUB22
+      262: PUT-ON-WHEEL R22 THE-HUB22
+      263: JACK-DOWN THE-HUB22
+      264: JACK-UP THE-HUB23
+      265: UNDO NUTS23 THE-HUB23
+      266: REMOVE-WHEEL W23 THE-HUB23
+      267: PUT-ON-WHEEL R23 THE-HUB23
+      268: JACK-DOWN THE-HUB23
+      269: JACK-UP THE-HUB24
+      270: UNDO NUTS24 THE-HUB24
+      271: REMOVE-WHEEL W24 THE-HUB24
+      272: PUT-ON-WHEEL R24 THE-HUB24
+      273: JACK-DOWN THE-HUB24
+      274: JACK-UP THE-HUB25
+      275: UNDO NUTS25 THE-HUB25
+      276: REMOVE-WHEEL W25 THE-HUB25
+      277: PUT-ON-WHEEL R25 THE-HUB25
+      278: JACK-DOWN THE-HUB25
+      279: JACK-UP THE-HUB26
+      280: UNDO NUTS26 THE-HUB26
+      281: REMOVE-WHEEL W26 THE-HUB26
+      282: PUT-ON-WHEEL R26 THE-HUB26
+      283: JACK-DOWN THE-HUB26
+      284: JACK-UP THE-HUB27
+      285: UNDO NUTS27 THE-HUB27
+      286: REMOVE-WHEEL W27 THE-HUB27
+      287: PUT-ON-WHEEL R27 THE-HUB27
+      288: JACK-DOWN THE-HUB27
+      289: JACK-UP THE-HUB28
+      290: UNDO NUTS28 THE-HUB28
+      291: REMOVE-WHEEL W28 THE-HUB28
+      292: PUT-ON-WHEEL R28 THE-HUB28
+      293: JACK-DOWN THE-HUB28
+      294: JACK-UP THE-HUB29
+      295: UNDO NUTS29 THE-HUB29
+      296: REMOVE-WHEEL W29 THE-HUB29
+      297: PUT-ON-WHEEL R29 THE-HUB29
+      298: JACK-DOWN THE-HUB29
+      299: JACK-UP THE-HUB30
+      300: UNDO NUTS30 THE-HUB30
+      301: REMOVE-WHEEL W30 THE-HUB30
+      302: PUT-ON-WHEEL R30 THE-HUB30
+      303: JACK-DOWN THE-HUB30
+      304: JACK-UP THE-HUB31
+      305: UNDO NUTS31 THE-HUB31
+      306: REMOVE-WHEEL W31 THE-HUB31
+      307: PUT-ON-WHEEL R31 THE-HUB31
+      308: JACK-DOWN THE-HUB31
+      309: JACK-UP THE-HUB32
+      310: UNDO NUTS32 THE-HUB32
+      311: REMOVE-WHEEL W32 THE-HUB32
+      312: PUT-ON-WHEEL R32 THE-HUB32
+      313: JACK-DOWN THE-HUB32
+      314: JACK-UP THE-HUB33
+      315: UNDO NUTS33 THE-HUB33
+      316: REMOVE-WHEEL W33 THE-HUB33
+      317: PUT-ON-WHEEL R33 THE-HUB33
+      318: JACK-DOWN THE-HUB33
+      319: JACK-UP THE-HUB34
+      320: UNDO NUTS34 THE-HUB34
+      321: REMOVE-WHEEL W34 THE-HUB34
+      322: PUT-ON-WHEEL R34 THE-HUB34
+      323: JACK-DOWN THE-HUB34
+      324: JACK-UP THE-HUB35
+      325: UNDO NUTS35 THE-HUB35
+      326: REMOVE-WHEEL W35 THE-HUB35
+      327: PUT-ON-WHEEL R35 THE-HUB35
+      328: JACK-DOWN THE-HUB35
+      329: JACK-UP THE-HUB36
+      330: UNDO NUTS36 THE-HUB36
+      331: REMOVE-WHEEL W36 THE-HUB36
+      332: PUT-ON-WHEEL R36 THE-HUB36
+      333: JACK-DOWN THE-HUB36
+      334: JACK-UP THE-HUB37
+      335: UNDO NUTS37 THE-HUB37
+      336: REMOVE-WHEEL W37 THE-HUB37
+      337: PUT-ON-WHEEL R37 THE-HUB37
+      338: JACK-DOWN THE-HUB37
+      339: JACK-UP THE-HUB38
+      340: UNDO NUTS38 THE-HUB38
+      341: REMOVE-WHEEL W38 THE-HUB38
+      342: PUT-ON-WHEEL R38 THE-HUB38
+      343: JACK-DOWN THE-HUB38
+      344: JACK-UP THE-HUB39
+      345: UNDO NUTS39 THE-HUB39
+      346: REMOVE-WHEEL W39 THE-HUB39
+      347: PUT-ON-WHEEL R39 THE-HUB39
+      348: JACK-DOWN THE-HUB39
+      349: JACK-UP THE-HUB40
+      350: UNDO NUTS40 THE-HUB40
+      351: REMOVE-WHEEL W40 THE-HUB40
+      352: PUT-ON-WHEEL R40 THE-HUB40
+      353: JACK-DOWN THE-HUB40
+      354: JACK-UP THE-HUB41
+      355: UNDO NUTS41 THE-HUB41
+      356: REMOVE-WHEEL W41 THE-HUB41
+      357: PUT-ON-WHEEL R41 THE-HUB41
+      358: JACK-DOWN THE-HUB41
+      359: JACK-UP THE-HUB42
+      360: UNDO NUTS42 THE-HUB42
+      361: REMOVE-WHEEL W42 THE-HUB42
+      362: PUT-ON-WHEEL R42 THE-HUB42
+      363: JACK-DOWN THE-HUB42
+      364: JACK-UP THE-HUB43
+      365: UNDO NUTS43 THE-HUB43
+      366: REMOVE-WHEEL W43 THE-HUB43
+      367: PUT-ON-WHEEL R43 THE-HUB43
+      368: JACK-DOWN THE-HUB43
+      369: JACK-UP THE-HUB44
+      370: UNDO NUTS44 THE-HUB44
+      371: REMOVE-WHEEL W44 THE-HUB44
+      372: PUT-ON-WHEEL R44 THE-HUB44
+      373: JACK-DOWN THE-HUB44
+      374: JACK-UP THE-HUB45
+      375: UNDO NUTS45 THE-HUB45
+      376: REMOVE-WHEEL W45 THE-HUB45
+      377: PUT-ON-WHEEL R45 THE-HUB45
+      378: JACK-DOWN THE-HUB45
+      379: JACK-UP THE-HUB46
+      380: UNDO NUTS46 THE-HUB46
+      381: REMOVE-WHEEL W46 THE-HUB46
+      382: PUT-ON-WHEEL R46 THE-HUB46
+      383: JACK-DOWN THE-HUB46
+      384: JACK-UP THE-HUB47
+      385: UNDO NUTS47 THE-HUB47
+      386: REMOVE-WHEEL W47 THE-HUB47
+      387: PUT-ON-WHEEL R47 THE-HUB47
+      388: JACK-DOWN THE-HUB47
+      389: JACK-UP THE-HUB48
+      390: UNDO NUTS48 THE-HUB48
+      391: REMOVE-WHEEL W48 THE-HUB48
+      392: PUT-ON-WHEEL R48 THE-HUB48
+      393: JACK-DOWN THE-HUB48
+      394: JACK-UP THE-HUB49
+      395: UNDO NUTS49 THE-HUB49
+      396: REMOVE-WHEEL W49 THE-HUB49
+      397: PUT-ON-WHEEL R49 THE-HUB49
+      398: JACK-DOWN THE-HUB49
+      399: JACK-UP THE-HUB50
+      400: UNDO NUTS50 THE-HUB50
+      401: REMOVE-WHEEL W50 THE-HUB50
+      402: PUT-ON-WHEEL R50 THE-HUB50
+      403: DO-UP NUTS50 THE-HUB50
+      404: JACK-DOWN THE-HUB50
+      405: TIGHTEN NUTS50 THE-HUB50
+      406: JACK-UP THE-HUB1
+      407: DO-UP NUTS1 THE-HUB1
+      408: JACK-DOWN THE-HUB1
+      409: TIGHTEN NUTS1 THE-HUB1
+      410: JACK-UP THE-HUB2
+      411: DO-UP NUTS2 THE-HUB2
+      412: JACK-DOWN THE-HUB2
+      413: TIGHTEN NUTS2 THE-HUB2
+      414: JACK-UP THE-HUB3
+      415: DO-UP NUTS3 THE-HUB3
+      416: JACK-DOWN THE-HUB3
+      417: TIGHTEN NUTS3 THE-HUB3
+      418: JACK-UP THE-HUB4
+      419: DO-UP NUTS4 THE-HUB4
+      420: JACK-DOWN THE-HUB4
+      421: TIGHTEN NUTS4 THE-HUB4
+      422: JACK-UP THE-HUB5
+      423: DO-UP NUTS5 THE-HUB5
+      424: JACK-DOWN THE-HUB5
+      425: TIGHTEN NUTS5 THE-HUB5
+      426: JACK-UP THE-HUB6
+      427: DO-UP NUTS6 THE-HUB6
+      428: JACK-DOWN THE-HUB6
+      429: TIGHTEN NUTS6 THE-HUB6
+      430: JACK-UP THE-HUB7
+      431: DO-UP NUTS7 THE-HUB7
+      432: JACK-DOWN THE-HUB7
+      433: TIGHTEN NUTS7 THE-HUB7
+      434: JACK-UP THE-HUB8
+      435: DO-UP NUTS8 THE-HUB8
+      436: JACK-DOWN THE-HUB8
+      437: TIGHTEN NUTS8 THE-HUB8
+      438: JACK-UP THE-HUB9
+      439: DO-UP NUTS9 THE-HUB9
+      440: JACK-DOWN THE-HUB9
+      441: TIGHTEN NUTS9 THE-HUB9
+      442: JACK-UP THE-HUB10
+      443: DO-UP NUTS10 THE-HUB10
+      444: JACK-DOWN THE-HUB10
+      445: TIGHTEN NUTS10 THE-HUB10
+      446: JACK-UP THE-HUB11
+      447: DO-UP NUTS11 THE-HUB11
+      448: JACK-DOWN THE-HUB11
+      449: TIGHTEN NUTS11 THE-HUB11
+      450: JACK-UP THE-HUB12
+      451: DO-UP NUTS12 THE-HUB12
+      452: JACK-DOWN THE-HUB12
+      453: TIGHTEN NUTS12 THE-HUB12
+      454: JACK-UP THE-HUB13
+      455: DO-UP NUTS13 THE-HUB13
+      456: JACK-DOWN THE-HUB13
+      457: TIGHTEN NUTS13 THE-HUB13
+      458: JACK-UP THE-HUB14
+      459: DO-UP NUTS14 THE-HUB14
+      460: JACK-DOWN THE-HUB14
+      461: TIGHTEN NUTS14 THE-HUB14
+      462: JACK-UP THE-HUB15
+      463: DO-UP NUTS15 THE-HUB15
+      464: JACK-DOWN THE-HUB15
+      465: TIGHTEN NUTS15 THE-HUB15
+      466: JACK-UP THE-HUB16
+      467: DO-UP NUTS16 THE-HUB16
+      468: JACK-DOWN THE-HUB16
+      469: TIGHTEN NUTS16 THE-HUB16
+      470: JACK-UP THE-HUB17
+      471: DO-UP NUTS17 THE-HUB17
+      472: JACK-DOWN THE-HUB17
+      473: TIGHTEN NUTS17 THE-HUB17
+      474: JACK-UP THE-HUB18
+      475: DO-UP NUTS18 THE-HUB18
+      476: JACK-DOWN THE-HUB18
+      477: TIGHTEN NUTS18 THE-HUB18
+      478: JACK-UP THE-HUB19
+      479: DO-UP NUTS19 THE-HUB19
+      480: JACK-DOWN THE-HUB19
+      481: TIGHTEN NUTS19 THE-HUB19
+      482: JACK-UP THE-HUB20
+      483: DO-UP NUTS20 THE-HUB20
+      484: JACK-DOWN THE-HUB20
+      485: TIGHTEN NUTS20 THE-HUB20
+      486: JACK-UP THE-HUB21
+      487: DO-UP NUTS21 THE-HUB21
+      488: JACK-DOWN THE-HUB21
+      489: TIGHTEN NUTS21 THE-HUB21
+      490: JACK-UP THE-HUB22
+      491: DO-UP NUTS22 THE-HUB22
+      492: JACK-DOWN THE-HUB22
+      493: TIGHTEN NUTS22 THE-HUB22
+      494: JACK-UP THE-HUB23
+      495: DO-UP NUTS23 THE-HUB23
+      496: JACK-DOWN THE-HUB23
+      497: TIGHTEN NUTS23 THE-HUB23
+      498: JACK-UP THE-HUB24
+      499: DO-UP NUTS24 THE-HUB24
+      500: JACK-DOWN THE-HUB24
+      501: TIGHTEN NUTS24 THE-HUB24
+      502: JACK-UP THE-HUB25
+      503: DO-UP NUTS25 THE-HUB25
+      504: JACK-DOWN THE-HUB25
+      505: TIGHTEN NUTS25 THE-HUB25
+      506: JACK-UP THE-HUB26
+      507: DO-UP NUTS26 THE-HUB26
+      508: JACK-DOWN THE-HUB26
+      509: TIGHTEN NUTS26 THE-HUB26
+      510: JACK-UP THE-HUB27
+      511: DO-UP NUTS27 THE-HUB27
+      512: JACK-DOWN THE-HUB27
+      513: TIGHTEN NUTS27 THE-HUB27
+      514: JACK-UP THE-HUB28
+      515: DO-UP NUTS28 THE-HUB28
+      516: JACK-DOWN THE-HUB28
+      517: TIGHTEN NUTS28 THE-HUB28
+      518: JACK-UP THE-HUB29
+      519: DO-UP NUTS29 THE-HUB29
+      520: JACK-DOWN THE-HUB29
+      521: TIGHTEN NUTS29 THE-HUB29
+      522: JACK-UP THE-HUB30
+      523: DO-UP NUTS30 THE-HUB30
+      524: JACK-DOWN THE-HUB30
+      525: TIGHTEN NUTS30 THE-HUB30
+      526: JACK-UP THE-HUB31
+      527: DO-UP NUTS31 THE-HUB31
+      528: JACK-DOWN THE-HUB31
+      529: TIGHTEN NUTS31 THE-HUB31
+      530: JACK-UP THE-HUB32
+      531: DO-UP NUTS32 THE-HUB32
+      532: JACK-DOWN THE-HUB32
+      533: TIGHTEN NUTS32 THE-HUB32
+      534: JACK-UP THE-HUB33
+      535: DO-UP NUTS33 THE-HUB33
+      536: JACK-DOWN THE-HUB33
+      537: TIGHTEN NUTS33 THE-HUB33
+      538: JACK-UP THE-HUB34
+      539: DO-UP NUTS34 THE-HUB34
+      540: JACK-DOWN THE-HUB34
+      541: TIGHTEN NUTS34 THE-HUB34
+      542: JACK-UP THE-HUB35
+      543: DO-UP NUTS35 THE-HUB35
+      544: JACK-DOWN THE-HUB35
+      545: TIGHTEN NUTS35 THE-HUB35
+      546: JACK-UP THE-HUB36
+      547: DO-UP NUTS36 THE-HUB36
+      548: JACK-DOWN THE-HUB36
+      549: TIGHTEN NUTS36 THE-HUB36
+      550: JACK-UP THE-HUB37
+      551: DO-UP NUTS37 THE-HUB37
+      552: JACK-DOWN THE-HUB37
+      553: TIGHTEN NUTS37 THE-HUB37
+      554: JACK-UP THE-HUB38
+      555: DO-UP NUTS38 THE-HUB38
+      556: JACK-DOWN THE-HUB38
+      557: TIGHTEN NUTS38 THE-HUB38
+      558: JACK-UP THE-HUB39
+      559: DO-UP NUTS39 THE-HUB39
+      560: JACK-DOWN THE-HUB39
+      561: TIGHTEN NUTS39 THE-HUB39
+      562: JACK-UP THE-HUB40
+      563: DO-UP NUTS40 THE-HUB40
+      564: JACK-DOWN THE-HUB40
+      565: TIGHTEN NUTS40 THE-HUB40
+      566: JACK-UP THE-HUB41
+      567: DO-UP NUTS41 THE-HUB41
+      568: JACK-DOWN THE-HUB41
+      569: TIGHTEN NUTS41 THE-HUB41
+      570: JACK-UP THE-HUB42
+      571: DO-UP NUTS42 THE-HUB42
+      572: JACK-DOWN THE-HUB42
+      573: TIGHTEN NUTS42 THE-HUB42
+      574: JACK-UP THE-HUB43
+      575: DO-UP NUTS43 THE-HUB43
+      576: JACK-DOWN THE-HUB43
+      577: TIGHTEN NUTS43 THE-HUB43
+      578: JACK-UP THE-HUB44
+      579: DO-UP NUTS44 THE-HUB44
+      580: JACK-DOWN THE-HUB44
+      581: TIGHTEN NUTS44 THE-HUB44
+      582: JACK-UP THE-HUB45
+      583: DO-UP NUTS45 THE-HUB45
+      584: JACK-DOWN THE-HUB45
+      585: TIGHTEN NUTS45 THE-HUB45
+      586: JACK-UP THE-HUB46
+      587: DO-UP NUTS46 THE-HUB46
+      588: JACK-DOWN THE-HUB46
+      589: TIGHTEN NUTS46 THE-HUB46
+      590: JACK-UP THE-HUB47
+      591: DO-UP NUTS47 THE-HUB47
+      592: JACK-DOWN THE-HUB47
+      593: TIGHTEN NUTS47 THE-HUB47
+      594: JACK-UP THE-HUB48
+      595: DO-UP NUTS48 THE-HUB48
+      596: JACK-DOWN THE-HUB48
+      597: TIGHTEN NUTS48 THE-HUB48
+      598: JACK-UP THE-HUB49
+      599: DO-UP NUTS49 THE-HUB49
+      600: JACK-DOWN THE-HUB49
+      601: TIGHTEN NUTS49 THE-HUB49
+      602: PUT-AWAY W1 BOOT
+      603: PUT-AWAY W2 BOOT
+      604: PUT-AWAY W3 BOOT
+      605: PUT-AWAY W4 BOOT
+      606: PUT-AWAY W5 BOOT
+      607: PUT-AWAY W6 BOOT
+      608: PUT-AWAY W7 BOOT
+      609: PUT-AWAY W8 BOOT
+      610: PUT-AWAY W9 BOOT
+      611: PUT-AWAY W10 BOOT
+      612: PUT-AWAY W11 BOOT
+      613: PUT-AWAY W12 BOOT
+      614: PUT-AWAY W13 BOOT
+      615: PUT-AWAY W14 BOOT
+      616: PUT-AWAY W15 BOOT
+      617: PUT-AWAY W16 BOOT
+      618: PUT-AWAY W17 BOOT
+      619: PUT-AWAY W18 BOOT
+      620: PUT-AWAY W19 BOOT
+      621: PUT-AWAY W20 BOOT
+      622: PUT-AWAY W21 BOOT
+      623: PUT-AWAY W22 BOOT
+      624: PUT-AWAY W23 BOOT
+      625: PUT-AWAY W24 BOOT
+      626: PUT-AWAY W25 BOOT
+      627: PUT-AWAY W26 BOOT
+      628: PUT-AWAY W27 BOOT
+      629: PUT-AWAY W28 BOOT
+      630: PUT-AWAY W29 BOOT
+      631: PUT-AWAY W30 BOOT
+      632: PUT-AWAY W31 BOOT
+      633: PUT-AWAY W32 BOOT
+      634: PUT-AWAY W33 BOOT
+      635: PUT-AWAY W34 BOOT
+      636: PUT-AWAY W35 BOOT
+      637: PUT-AWAY W36 BOOT
+      638: PUT-AWAY W37 BOOT
+      639: PUT-AWAY W38 BOOT
+      640: PUT-AWAY W39 BOOT
+      641: PUT-AWAY W40 BOOT
+      642: PUT-AWAY W41 BOOT
+      643: PUT-AWAY W42 BOOT
+      644: PUT-AWAY W43 BOOT
+      645: PUT-AWAY W44 BOOT
+      646: PUT-AWAY W45 BOOT
+      647: PUT-AWAY W46 BOOT
+      648: PUT-AWAY W47 BOOT
+      649: PUT-AWAY W48 BOOT
+      650: PUT-AWAY W49 BOOT
+      651: PUT-AWAY W50 BOOT
+      652: PUT-AWAY PUMP BOOT
+      653: PUT-AWAY JACK BOOT
+      654: PUT-AWAY WRENCH BOOT
+      655: CLOSE BOOT
+     
+
+time spent:    0.00 seconds instantiating 20458 easy, 0 hard action templates
+               0.02 seconds reachability analysis, yielding 10658 facts and 20458 actions
+               0.01 seconds creating final representation with 10658 relevant facts
+               0.02 seconds building connectivity graph
+              12.21 seconds searching, evaluating 3163 states, to a max depth of 2
+              12.26 seconds total time
+
