@@ -1,4 +1,4 @@
-package wumpus;
+package wumpus.stuff;
 
 public abstract  class Stuff {
 

@@ -1,4 +1,4 @@
-package wumpus;
+package wumpus.stuff;
 
 public class Square extends Stuff {
 

@@ -3,6 +3,11 @@ package wumpus;
 import java.util.ArrayList;
 import java.util.Random;
 
+import wumpus.stuff.Gold;
+import wumpus.stuff.Hero;
+import wumpus.stuff.Square;
+import wumpus.stuff.Stuff;
+
 public class Wumpus {
 	public static void main(String[] args) {
 
@@ -69,11 +74,12 @@ public class Wumpus {
 		StringBuilder sb = new StringBuilder();
 
 		sb.append("(and ");
-		
-		for (Gold g : gold ) {
-			sb.append("(hold ").append(h.getName()).append(" ").append(g.getName()).append(") ");
+
+		for (Gold g : gold) {
+			sb.append("(hold ").append(h.getName()).append(" ")
+					.append(g.getName()).append(") ");
 		}
-		
+
 		sb.append(")");
 		return sb.toString();
 	}
