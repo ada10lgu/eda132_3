@@ -49,22 +49,17 @@ public class Problem {
 		define.addData(init);
 		DataCollection goal = new DataCollection(":goal");
 
+		DataCollection andGoal = new DataCollection("and");
+		for (Gold g: gold)
+			andGoal.addData(new DataValue("hold",hero.getName(),g.getName()));
+		goal.addData(andGoal);
 		define.addData(goal);
 
 	}
 
 	@Override
 	public String toString() {
-
-		return define.treeToString();
-		// sb.append("(:goal").append(nl);
-		//
-		// sb.append(getGoal(hero, gold)).append(nl);
-		//
-		// sb.append(")").append(nl);
-		//
-		// sb.append(")").append(nl);
-		// return sb.toString();
+		return define.toString();
 	}
 
 }
