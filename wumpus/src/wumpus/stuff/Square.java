@@ -2,6 +2,8 @@ package wumpus.stuff;
 
 import java.util.ArrayList;
 
+import wumpus.data.DataValue;
+
 public class Square extends Stuff {
 
 	int x, y;
@@ -21,8 +23,8 @@ public class Square extends Stuff {
 	}
 
 	@Override
-	public String getDefinition() {
-		return "(SQUARE " + getName() + ")";
+	public DataValue getDefinition() {
+		return new DataValue("SQUARE",getName());
 	}
 
 	public void addNeighbour(Square s) {
@@ -30,12 +32,12 @@ public class Square extends Stuff {
 	}
 	
 	@Override
-	public String getRules() {
-		StringBuilder sb = new StringBuilder();
+	public ArrayList<DataValue> getRules() {
+		ArrayList<DataValue> dv = new ArrayList<DataValue>();
 		for (Square s : neighbours) {
-			sb.append("(besides ").append(getName()).append(" ").append(s.getName()).append(")\n");
+			dv.add(new DataValue("besides",getName(),s.getName()));
 		}
-		return sb.toString();
+		return dv;
 
 	}
 

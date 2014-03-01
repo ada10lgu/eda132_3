@@ -1,5 +1,9 @@
 package wumpus.stuff;
 
+import java.util.ArrayList;
+
+import wumpus.data.DataValue;
+
 public class Gold extends Stuff {
 
 	Square at;
@@ -10,13 +14,16 @@ public class Gold extends Stuff {
 	}
 
 	@Override
-	public String getRules() {
-		return "(lies " + getName() + " " + at.getName() + ")";
+	public ArrayList<DataValue> getRules() {
+		ArrayList<DataValue> dv = new ArrayList<DataValue>();
+		dv.add(new DataValue("lies",getName(),at.getName()));
+		return dv;
 	}
 
 	@Override
-	public String getDefinition() {
-		return "(GOLD " + getName() + ")";
+	
+	public DataValue getDefinition() {
+		return new DataValue("GOLD", getName());
 	}
 
 	@Override

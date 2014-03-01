@@ -1,5 +1,9 @@
 package wumpus.stuff;
 
+import java.util.ArrayList;
+
+import wumpus.data.DataValue;
+
 public class Hero extends Stuff {
 	
 	Square from;
@@ -15,13 +19,15 @@ public class Hero extends Stuff {
 	}
 
 	@Override
-	public String getDefinition() {
-		return "(HERO " + getName() + ")";
+	public DataValue getDefinition() {
+		return new DataValue("HERO", getName());
 	}
 
 	@Override
-	public String getRules() {
-		return "(at " + getName() + " " + from.getName() + ")";
+	public ArrayList<DataValue> getRules() {
+		ArrayList<DataValue> dv = new ArrayList<DataValue>();
+		dv.add(new DataValue("at",getName(),from.getName()));
+		return dv;
 	}
 
 }

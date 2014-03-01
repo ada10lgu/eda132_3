@@ -12,20 +12,19 @@ public class World {
 	Square start;
 	private Square[][] world;
 	private ArrayList<Point> freeSlots;
-	
-	
+
 	public World(int width, int height) {
 		world = new Square[width][height];
 		freeSlots = new ArrayList<Point>();
-		
+
 		for (int x = 0; x < width; x++) {
 			for (int y = 0; y < height; y++) {
 				Square s = new Square(x, y);
 				world[x][y] = s;
-				freeSlots.add(new Point(x,y));
+				freeSlots.add(new Point(x, y));
 			}
 		}
-		freeSlots.remove(new Point(0,0));
+		freeSlots.remove(new Point(0, 0));
 		start = world[0][0];
 		for (int x = 0; x < width; x++)
 			for (int y = 0; y < height; y++)
@@ -50,13 +49,11 @@ public class World {
 	}
 
 	public Square getRandomSquare() {
-		if (freeSlots.size() == 0) {
+		if (freeSlots.size() == 0)
 			throw new RuntimeException("No more free slots");
-		}
+
 		Random r = new Random();
-		
 		Point p = freeSlots.remove(r.nextInt(freeSlots.size()));
-		
 		return world[p.x][p.y];
 	}
 

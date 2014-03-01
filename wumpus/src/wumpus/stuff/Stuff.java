@@ -1,5 +1,9 @@
 package wumpus.stuff;
 
+import java.util.ArrayList;
+
+import wumpus.data.DataValue;
+
 public abstract  class Stuff {
 
 	protected String name;
@@ -12,9 +16,9 @@ public abstract  class Stuff {
 		return getPrefix() + name;
 	}
 	
-	public abstract String getRules();
+	public abstract ArrayList<DataValue> getRules();
 	
-	public abstract String getDefinition();
+	public abstract DataValue getDefinition();
 	
 	protected abstract String getPrefix();
 }
