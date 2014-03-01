@@ -11,7 +11,7 @@ public class Gold extends Stuff {
 
 	@Override
 	public String getRules() {
-		return "(lies " + getName() + " " + at.getName() + ")\n";
+		return "(lies " + getName() + " " + at.getName() + ")";
 	}
 
 	@Override

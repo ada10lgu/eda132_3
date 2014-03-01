@@ -1,15 +1,18 @@
 package wumpus.stuff;
 
+import java.util.ArrayList;
+
 public class Square extends Stuff {
 
 	int x, y;
-	Square[][] world;
 
-	public Square(int x, int y, Square[][] world) {
+	ArrayList<Square> neighbours;
+	
+	public Square(int x, int y) {
 		super(x + "-" + y);
 		this.x = x;
 		this.y = y;
-		this.world = world;
+		neighbours = new ArrayList<Square>();
 	}
 
 	@Override
@@ -22,36 +25,15 @@ public class Square extends Stuff {
 		return "(SQUARE " + getName() + ")";
 	}
 
+	public void addNeighbour(Square s) {
+		neighbours.add(s);
+	}
+	
 	@Override
 	public String getRules() {
 		StringBuilder sb = new StringBuilder();
-		for (int d = -1; d <= 1; d += 2) {
-			int dx = 0;
-			int dy = d;
-
-			try {
-
-				Square to = world[x + dx][y + dy];
-
-				sb.append("(besides ").append(getName()).append(" ")
-						.append(to.getName()).append(")\n");
-
-			} catch (IndexOutOfBoundsException e) {
-			}
-
-			dx = d;
-			dy = 0;
-
-			try {
-
-				Square to = world[x + dx][y + dy];
-
-				sb.append("(besides ").append(getName()).append(" ")
-						.append(to.getName()).append(")\n");
-
-			} catch (IndexOutOfBoundsException e) {
-			}
-
+		for (Square s : neighbours) {
+			sb.append("(besides ").append(getName()).append(" ").append(s.getName()).append(")\n");
 		}
 		return sb.toString();
 

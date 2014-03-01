@@ -21,7 +21,7 @@ public class Hero extends Stuff {
 
 	@Override
 	public String getRules() {
-		return "(at " + getName() + " " + from.getName() + ")\n";
+		return "(at " + getName() + " " + from.getName() + ")";
 	}
 
 }
