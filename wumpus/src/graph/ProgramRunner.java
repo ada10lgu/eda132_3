@@ -1,50 +1,28 @@
 package graph;
 
-import java.io.BufferedReader;
+import graph.generator.Generator;
+import graph.generator.Tyreworld;
+
+import java.io.File;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.PrintWriter;
 
 public class ProgramRunner {
 	public static void main(String[] args) throws IOException {
-
-		String program = "/home/mezz/Documents/eda132/eda132_3/files/Planning/Tyreworld/GENERATOR_32bit/tyreworld";
-		// "-n", "2"
-		 System.out.println(runProgram("", program, "-n", "2"));
-
+		String name = "Tyreworld";
+		Graph g = new Graph(name);
 		
-	}
-
-	public static int runProgram(String define, String... prog) {
-		Process process;
-		try {
-			process = new ProcessBuilder(prog).start();
-			InputStream is = process.getInputStream();
-			InputStreamReader isr = new InputStreamReader(is);
-			BufferedReader br = new BufferedReader(isr);
-			String line;
-
-			String ff = "/home/mezz/Documents/eda132/eda132_3/files/Planning/FF-X/ff"; 
-			
-			Process ffProg = new ProcessBuilder(ff).start();
-			
-			
-			while ((line = br.readLine()) != null) {
-				System.out.println(line);
-			}
-		} catch (IOException e) {
-			return -1;
+		PrintWriter pw = new PrintWriter(new File("files/tyreworld"));
+		pw.printf("%s\n",name);
+		for (int i = 1; i <= 25;i++) {
+			Generator tyre = new Tyreworld(i);
+			double value =tyre.avg(1); 
+			g.add(i, value);
+			pw.printf("%d\t%f\n",i,value);
+			pw.flush();
+			System.out.println(i);
 		}
-
-		return 0;
-	}
-	
-	private abstract class Prog {
-		
-		
-		public Prog(String... input) {
-			
-		}
-		
+		pw.close();
+		System.out.println(g);
 	}
 }
