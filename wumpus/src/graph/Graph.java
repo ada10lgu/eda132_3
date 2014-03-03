@@ -69,4 +69,8 @@ public class Graph {
 		return sb.toString();
 	}
 
+	public String getName() {
+		return name;
+	}
+
 }

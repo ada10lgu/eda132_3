@@ -1,7 +1,7 @@
 package graph;
 
+import graph.generator.Blocksworld;
 import graph.generator.Generator;
-import graph.generator.Tyreworld;
 
 import java.io.File;
 import java.io.IOException;
@@ -9,14 +9,14 @@ import java.io.PrintWriter;
 
 public class ProgramRunner {
 	public static void main(String[] args) throws IOException {
-		String name = "Tyreworld";
+		String name = "Blocksworld";
 		Graph g = new Graph(name);
 		
-		PrintWriter pw = new PrintWriter(new File("files/tyreworld"));
+		PrintWriter pw = new PrintWriter(new File("files/"+name));
 		pw.printf("%s\n",name);
-		for (int i = 1; i <= 25;i++) {
-			Generator tyre = new Tyreworld(i);
-			double value =tyre.avg(1); 
+		for (int i = 2; i <= 2;i++) {
+			Generator block = new Blocksworld(i);
+			double value =block.avg(1); 
 			g.add(i, value);
 			pw.printf("%d\t%f\n",i,value);
 			pw.flush();
