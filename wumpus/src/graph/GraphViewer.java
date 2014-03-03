@@ -1,6 +1,7 @@
 package graph;
 
 import java.awt.Color;
+import java.awt.FontMetrics;
 import java.awt.Graphics;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -48,6 +49,11 @@ public class GraphViewer extends JFrame {
 			int oldX = 20;
 			int oldY = startY;
 			
+			FontMetrics fm = g.getFontMetrics();
+			
+			g.drawString(graph.getName(), 15, 15);
+			
+			
 			for (int i = graph.getMinI(); i <= graph.getMaxI(); i++ ) {
 				double value = graph.get(i);
 				
@@ -56,7 +62,9 @@ public class GraphViewer extends JFrame {
 				
 				g.drawLine(oldX,oldY, newX, newY);
 				g.drawLine(newX, startY-5, newX, startY+5);
-				g.drawString(""+i, newX, startY+15);
+				String text = "" + i;
+				int textWidth = fm.stringWidth(text);
+				g.drawString(text, newX-(textWidth/2), startY+15);
 				
 				oldX = newX;
 				oldY = newY;
