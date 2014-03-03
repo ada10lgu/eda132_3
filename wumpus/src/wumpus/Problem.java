@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import wumpus.data.DataCollection;
 import wumpus.data.DataValue;
+import wumpus.stuff.Arrow;
 import wumpus.stuff.Gold;
 import wumpus.stuff.Hero;
 import wumpus.stuff.Stuff;
@@ -15,20 +16,22 @@ public class Problem {
 	private Hero hero;
 	private DataCollection define;
 
-	public Problem(int width, int height, int nGold) {
+	public Problem(int width, int height, int nGold, int pits, int wumpus) {
 		String name = "WUMPUS-BY-GENERATOR-w" + width + "-h" + height;
 
-		init(width, height, nGold);
+		init(width, height, nGold, pits, wumpus);
 		createTree(name);
 
 	}
 
-	private void init(int width, int height, int nGold) {
+	private void init(int width, int height, int nGold, int pits, int wumpus) {
 		World world = new World(width, height);
 
-		hero = new Hero("1", world.getStart());
+		Arrow a = new Arrow(0);
+		hero = new Hero("1", world.getStart(),a);
+		world.getStart().markSafe();
 		stuff.add(hero);
-
+		stuff.add(a);
 		world.addAll(stuff);
 
 		for (int i = 0; i < nGold; i++) {
@@ -36,12 +39,19 @@ public class Problem {
 			gold.add(g);
 			stuff.add(g);
 		}
+
+		for (int i = 0; i < pits; i++) {
+			world.getRandomSquare().isPit();
+		}
+		for (int i = 0; i < wumpus; i++) {
+			world.getRandomSquare().isWumpus();
+		}
 	}
 
 	private void createTree(String name) {
 		define = new DataCollection("define");
 		define.addData(new DataValue("problem", name));
-		define.addData(new DataValue(":doman", "wumpus"));
+		define.addData(new DataValue(":domain", "wumpus"));
 
 		DataValue objects = new DataValue(":objects");
 		for (Stuff s : stuff)

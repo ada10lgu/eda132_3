@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.util.Arrays;
 
 public abstract class Program {
 
@@ -19,7 +20,7 @@ public abstract class Program {
 		for (String s : args) {
 			input[i++] = s;
 		}
-
+		System.out.println(Arrays.toString(input));
 		Process process = new ProcessBuilder(input).start();
 		InputStream is = process.getInputStream();
 		InputStreamReader isr = new InputStreamReader(is);

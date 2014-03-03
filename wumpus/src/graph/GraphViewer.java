@@ -33,31 +33,31 @@ public class GraphViewer extends JFrame {
 	private class drawingPane extends JPanel {
 		@Override
 		public void paint(Graphics g) {
+			
+			FontMetrics fm = g.getFontMetrics();
 			g.setColor(Color.WHITE);
 			g.fillRect(0, 0, getWidth(), getHeight());
 			
 			g.setColor(Color.BLACK);
 			
-			g.drawLine(20, 20, 20, getHeight()-20);
-			g.drawLine(20, getHeight()-20, getWidth()-20, getHeight()-20);
+			g.drawLine(40, 20, 40, getHeight()-20);
+			g.drawLine(40, getHeight()-20, getWidth()-20, getHeight()-20);
 			
 			int height = getHeight()-40;
 			int startY = getHeight()-20;
 			
-			double dx = (double)(getWidth()-40)/(graph.getMaxI()-graph.getMinI()+1);
+			double dx = (double)(getWidth()-60)/(graph.getMaxI()-graph.getMinI()+1);
 			
-			int oldX = 20;
+			int oldX = 40;
 			int oldY = startY;
 			
-			FontMetrics fm = g.getFontMetrics();
 			
 			g.drawString(graph.getName(), 15, 15);
-			
 			
 			for (int i = graph.getMinI(); i <= graph.getMaxI(); i++ ) {
 				double value = graph.get(i);
 				
-				int newX = (int)(20+(i*dx));
+				int newX = (int)(40+(i*dx));
 				int newY = startY - (int)((value/graph.getMaxValue())*height);
 				
 				g.drawLine(oldX,oldY, newX, newY);
@@ -68,6 +68,16 @@ public class GraphViewer extends JFrame {
 				
 				oldX = newX;
 				oldY = newY;
+			}
+			
+			for (int i = 10; i <= graph.getMaxValue(); i+=10) {
+				int x = 40;
+				int y = startY - (int)((i/graph.getMaxValue())*height);
+				
+				g.drawLine(x-5, y, x+5, y);
+				String text = "" + i;
+				g.drawString(text, x-7-fm.stringWidth(text), y+fm.getHeight()/2);
+				
 			}
 		}
 	}
