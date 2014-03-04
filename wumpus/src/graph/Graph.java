@@ -23,8 +23,11 @@ public class Graph {
 		name = s.nextLine();
 		data = new TreeMap<Integer, Double>();
 		while (s.hasNext()) {
-			int i = s.nextInt();
-			double v = s.nextDouble();
+			String index = s.next();
+			String value = s.next();
+			
+			int i = Integer.parseInt(index);
+			double v = Double.parseDouble(value);
 			add(i, v);
 		}
 		s.close();
