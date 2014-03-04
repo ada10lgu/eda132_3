@@ -6,9 +6,9 @@
 #########################################################
 
 
-BS=./GENERATOR/bwstates.1/bwstates
+BS=/home/mezz/Documents/eda132/eda132_3/files/Planning/Blocksworld_32bit/GENERATOR/bwstates.1/bwstates
 
-TR=./GENERATOR/2pddl/2pddl
+TR=/home/mezz/Documents/eda132/eda132_3/files/Planning/Blocksworld_32bit/GENERATOR/2pddl/2pddl
 
 
 

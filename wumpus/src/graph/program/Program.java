@@ -20,7 +20,6 @@ public abstract class Program {
 		for (String s : args) {
 			input[i++] = s;
 		}
-		System.out.println(Arrays.toString(input));
 		Process process = new ProcessBuilder(input).start();
 		InputStream is = process.getInputStream();
 		InputStreamReader isr = new InputStreamReader(is);

@@ -21,13 +21,9 @@ public abstract class Generator {
 	protected double run(String program, String domain, String... args)
 			throws IOException {
 		Program generator = new GeneratorProgram(program, args);
-		System.out.println("----Generator---");
-		System.out.println(generator);
-		System.out.println("-----");
 		File tempFile = generator.outputToFile();
 
 		FFProgram ff = new FFProgram(tempFile, domain);
-		System.out.println(ff);
 		tempFile.delete();
 		return ff.getTime();
 	}

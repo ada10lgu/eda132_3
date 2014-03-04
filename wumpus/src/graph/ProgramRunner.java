@@ -1,5 +1,6 @@
 package graph;
 
+import graph.generator.Blocksworld;
 import graph.generator.Generator;
 import graph.generator.Tyreworld;
 
@@ -14,14 +15,20 @@ public class ProgramRunner {
 		
 		PrintWriter pw = new PrintWriter(new File("files/"+name));
 		pw.printf("%s\n",name);
-		for (int i = 1; i <= 50;i++) {
-			Generator tyre = new Tyreworld(i);
-			double value =tyre.avg(10); 
+		
+		int min = 2;
+		int max = 15;
+		int times = 2;
+		
+		for (int i = min; i <= max;i++) {
+			Generator tyre = new Blocksworld(i);
+			double value =tyre.avg(times); 
 			g.add(i, value);
 			pw.printf("%d\t%f\n",i,value);
 			pw.flush();
-			System.out.println(i);
+			System.out.print(i+" ");
 		}
+		System.out.println();
 		pw.close();
 		System.out.println(g);
 	}
