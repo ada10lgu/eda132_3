@@ -9,22 +9,33 @@ import java.io.IOException;
 
 public abstract class Generator {
 
-	public double avg(int n) throws IOException {
-		double total = 0;
-		for (int i = 0; i < n; i++)
-			total += run();
-		return total / n;
+	public Duplet<Double, Integer> avg(int n) throws IOException {
+		double totalRuntime = 0;
+		int totalIntructions = 0;
+		for (int i = 0; i < n; i++) {
+			Duplet<Double,Integer> d = run(); 
+			totalRuntime += d.e;
+			totalIntructions += d.a;
+		}
+			
+		
+		
+		return new Duplet<Double, Integer>(totalRuntime/n, totalIntructions/n);
 	}
 
-	protected abstract double run() throws IOException;
+	protected abstract Duplet<Double, Integer> run() throws IOException;
 
-	protected double run(String program, String domain, String... args)
+	protected Duplet<Double, Integer> run(String program, String domain, String... args)
 			throws IOException {
 		Program generator = new GeneratorProgram(program, args);
 		File tempFile = generator.outputToFile();
 
 		FFProgram ff = new FFProgram(tempFile, domain);
+		
 		tempFile.delete();
-		return ff.getTime();
+		
+		Duplet<Double, Integer> d = new Duplet<Double, Integer>(ff.getTime(), ff.getInstructions());
+		
+		return d;
 	}
 }

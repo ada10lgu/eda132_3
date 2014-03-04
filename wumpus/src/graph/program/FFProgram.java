@@ -8,8 +8,8 @@ import java.util.regex.Pattern;
 
 public class FFProgram extends Program {
 
-	private final static String FF_PROGRAM ="/home/mezz/Documents/eda132/eda132_3/files/Planning/FF-X/ff";
-//	private final static String FF_PROGRAM ="/h/d8/e/ada10lgu/Documents/eda132/FF-X/ff";
+//	private final static String FF_PROGRAM ="/home/mezz/Documents/eda132/eda132_3/files/Planning/FF-X/ff";
+	private final static String FF_PROGRAM ="/h/d8/e/ada10lgu/Documents/eda132/FF-v2.3/ff";
 	
 	public FFProgram(File inputFile, String domain) throws IOException {
 		super(FF_PROGRAM,"-o", domain, "-f",inputFile.getAbsolutePath());
@@ -26,5 +26,15 @@ public class FFProgram extends Program {
 		}
 		
 		return -1;
+	}
+	
+	public int getInstructions() {
+		String regex ="\\s+(\\d+): ";
+		Pattern pattern = Pattern.compile(regex);
+		Matcher m = pattern.matcher(toString());
+		int n = 0;
+		while (m.find()){
+			n++;}
+		return n;
 	}
 }

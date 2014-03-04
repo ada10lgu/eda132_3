@@ -13,15 +13,15 @@ public class Blocksworld extends Generator {
 	
 	public Blocksworld(int n) {
 		this.n = "" + n;
-		program = "Blocksworld_32bit/blocksworld";
+		program = "repo/files/Planning/Blocksworld_32bit/blocksworld";
 		domain = GeneratorProgram.GENERATOR_SUB_FOLDER
-				+ "Blocksworld_32bit/domain.pddl";
+				+ "repo/files/Planning/Blocksworld_32bit/domain.pddl";
 	}
 	
 	
 	
 	
-	protected double run() throws IOException {
+	protected Duplet<Double, Integer> run() throws IOException {
 		return run(program,domain,n);
 	}
 }

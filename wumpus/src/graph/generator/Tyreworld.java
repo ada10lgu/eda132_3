@@ -21,7 +21,7 @@ public class Tyreworld extends Generator {
 	
 	
 	
-	protected double run() throws IOException {
+	protected Duplet<Double, Integer> run() throws IOException {
 		return run(program,domain,"-n",n);
 	}
 }

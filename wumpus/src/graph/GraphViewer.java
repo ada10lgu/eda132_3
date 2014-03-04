@@ -15,7 +15,7 @@ public class GraphViewer extends JFrame {
 	private Graph graph;
 	
 	public static void main(String[] args) throws FileNotFoundException {
-		Graph graph = new Graph(new File("files/tyreworld"));
+		Graph graph = new Graph(new File("files/Logistics_cityPackages"));
 		new GraphViewer(graph);
 	}
 
