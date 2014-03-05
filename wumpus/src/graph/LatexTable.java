@@ -6,8 +6,8 @@ import java.io.FileNotFoundException;
 public class LatexTable {
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		Graph g1 = new Graph(new File("files/Log_airplane_ins"));
-		Graph g2 = new Graph(new File("files/Log_airplane_time"));
+		Graph g1 = new Graph(new File("files/tyre_ins"));
+		Graph g2 = new Graph(new File("files/tyre_time"));
 		
 		
 		System.out.println(new LatexTable(g1,g2).toLatex());

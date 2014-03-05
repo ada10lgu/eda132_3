@@ -76,6 +76,7 @@ public class Wumpus {
 		System.out.println("-h height (min 2)");
 		System.out.println("-g gold (min 1)");
 		System.out.println("-p pits");
+		System.out.println("-u wumpus");
 		System.out.println();
 		System.out.println("//the developers");
 		System.exit(0);

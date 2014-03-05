@@ -21,7 +21,7 @@ public class GraphViewer extends JFrame {
 //		Graph graph3 = new Graph(new File("files/Log_city_ins"));
 //		Graph graph4 = new Graph(new File("files/Log_airplane_ins"));
 
-		Graph graph1 = new Graph(new File("files/Tyre_ins"));
+		Graph graph1 = new Graph(new File("files/Block_ins"));
 		new GraphViewer(graph1);
 	}
 
