@@ -13,9 +13,9 @@ public class Blocksworld extends Generator {
 	
 	public Blocksworld(int n) {
 		this.n = "" + n;
-		program = "repo/files/Planning/Blocksworld_32bit/blocksworld";
+		program = "Blocksworld_32bit/blocksworld";
 		domain = GeneratorProgram.GENERATOR_SUB_FOLDER
-				+ "repo/files/Planning/Blocksworld_32bit/domain.pddl";
+				+ "Blocksworld_32bit/domain.pddl";
 	}
 	
 	
