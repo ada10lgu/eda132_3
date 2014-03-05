@@ -12,15 +12,20 @@ public abstract class Generator {
 	public Duplet<Double, Integer> avg(int n) throws IOException {
 		double totalRuntime = 0;
 		int totalIntructions = 0;
-		for (int i = 0; i < n; i++) {
+		int fails = 0;
+		int i = 0;
+		for (; i < n && fails <= 10; i++) {
 			Duplet<Double,Integer> d = run(); 
+			if (d.e < 0) {
+				i--;
+				fails++;
+				continue;
+			}
 			totalRuntime += d.e;
 			totalIntructions += d.a;
 		}
-			
 		
-		
-		return new Duplet<Double, Integer>(totalRuntime/n, totalIntructions/n);
+		return new Duplet<Double, Integer>(totalRuntime/i, totalIntructions/i);
 	}
 
 	protected abstract Duplet<Double, Integer> run() throws IOException;
