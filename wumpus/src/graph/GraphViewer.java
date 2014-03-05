@@ -16,10 +16,10 @@ public class GraphViewer extends JFrame {
 	private Color[] colors = new Color[]{Color.BLUE,Color.GREEN,Color.PINK,Color.RED};	
 	
 	public static void main(String[] args) throws FileNotFoundException {
-		Graph graph1 = new Graph(new File("files/Log_packages_time"));
-		Graph graph2 = new Graph(new File("files/Log_citySize_time"));
-		Graph graph3 = new Graph(new File("files/Log_city_time"));
-		Graph graph4 = new Graph(new File("files/Log_airplane_time"));
+		Graph graph1 = new Graph(new File("files/Log_packages_ins"));
+		Graph graph2 = new Graph(new File("files/Log_citySize_ins"));
+		Graph graph3 = new Graph(new File("files/Log_city_ins"));
+		Graph graph4 = new Graph(new File("files/Log_airplane_ins"));
 
 		new GraphViewer(graph1, graph2, graph3, graph4);
 	}
@@ -89,7 +89,7 @@ public class GraphViewer extends JFrame {
 				}
 				n++;
 			}
-			for (int i = 10; i <= max; i += 10) {
+			for (int i = 10; i <= mvalue; i += 10) {
 				int x = 40;
 				int y = startY - (int) ((i / mvalue) * height);
 
