@@ -54,7 +54,7 @@ public class Wumpus {
 		System.out.println(p);
 
 		try {
-			File f = new File("files/wumpus.pddl");
+			File f = new File("testfiles/wumpus/wumpus.pddl");
 			PrintWriter pw;
 			pw = new PrintWriter(f);
 			pw.print(p.toString());

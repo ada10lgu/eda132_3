@@ -28,7 +28,7 @@ public class Problem {
 		World world = new World(width, height);
 
 		Arrow a = new Arrow(0);
-		hero = new Hero("1", world.getStart(),a);
+		hero = new Hero("1", world.getStart(), a);
 		world.getStart().markSafe();
 		stuff.add(hero);
 		stuff.add(a);
@@ -70,6 +70,7 @@ public class Problem {
 		DataCollection andGoal = new DataCollection("and");
 		for (Gold g : gold)
 			andGoal.addData(new DataValue("hold", hero.getName(), g.getName()));
+		andGoal.addData(new DataValue("at", hero.getName(), hero.from.getName()));
 		goal.addData(andGoal);
 		define.addData(goal);
 	}

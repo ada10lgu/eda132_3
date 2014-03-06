@@ -6,7 +6,7 @@ import wumpus.data.DataValue;
 
 public class Hero extends Stuff {
 	
-	Square from;
+	public Square from;
 	Arrow a;
 	
 	public Hero(String name, Square from,Arrow a) {
